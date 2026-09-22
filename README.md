@@ -1,6 +1,9 @@
 # 📖 Educake Helper PRO - Full Auto Edition
 _An automation tool that turns Educake into a "tap-and-go" experience. It types answers and selects multiple-choice buttons for you._
 
+
+POTENTIALLY PATCHED BUT CANT UPKEEP AS I DONT HAVE ACSESS TO AN EDUCAKE ACCOUTN ANYMORE
+
 ---
 <img src="https://github.com/Danny0408/Educake-Helper/blob/main/preview1.png" width="300">
 <img src="https://github.com/Danny0408/Educake-Helper/blob/main/preview2.png" width="300">
