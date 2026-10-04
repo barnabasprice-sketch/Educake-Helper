@@ -2,7 +2,7 @@
 _An automation tool that turns Educake into a "tap-and-go" experience. It types answers and selects multiple-choice buttons for you._
 
 
-POTENTIALLY PATCHED BUT CANT UPKEEP AS I DONT HAVE ACSESS TO AN EDUCAKE ACCOUTN ANYMORE
+POTENTIALLY PATCHED BUT CANT UPKEEP AS I DONT HAVE ACSESS TO AN EDUCAKE ACCOUTN ANYMORE (if you need one just email me because this is an amazing project: barney.rg.price@gmail.com)
 
 ---
 <img src="https://github.com/Danny0408/Educake-Helper/blob/main/preview1.png" width="300">
